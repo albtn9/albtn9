@@ -52,6 +52,15 @@
 
 ---
 
+## ⭐ Diferenciais
+
+- 📚 Criação de materiais de onboarding e documentação de QA  
+- 🎥 Produção de conteúdos técnicos para compartilhamento de conhecimento  
+- 🧠 Visão analítica para identificação de falhas e melhorias de processo  
+- 🤝 Forte colaboração com times de desenvolvimento e produto
+  
+---
+
 ## 🧩 O que eu faço
 
 | Área | Detalhes |
@@ -61,15 +70,6 @@
 | 🔌 Testes de API | Validação de contratos e fluxos com Postman/Insomnia |
 | ✍️ Testes Manuais | Análise exploratória, casos de teste e evidências |
 | 📖 BDD | Escrita de cenários em Gherkin com foco em colaboração |
-
----
-
-## ⭐ Diferenciais
-
-- 📚 Criação de materiais de onboarding e documentação de QA  
-- 🎥 Produção de conteúdos técnicos para compartilhamento de conhecimento  
-- 🧠 Visão analítica para identificação de falhas e melhorias de processo  
-- 🤝 Forte colaboração com times de desenvolvimento e produto  
 
 ---
 
@@ -85,7 +85,7 @@
 
 <div align="center">
 
-![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=albtn9&show_icons=true&theme=dark&hide_border=true&count_private=true)
+<!--![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=albtn9&show_icons=true&theme=dark&hide_border=true&count_private=true)-->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albtn9&layout=compact&theme=dark&hide_border=true)
 
@@ -96,14 +96,13 @@
 ## 📫 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-albertine/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/albtn9)
 
 ---
-
+<!--
 ## 💬 Vamos conversar?
 
 Se quiser trocar ideias sobre QA, automação ou oportunidades, fique à vontade para me chamar no LinkedIn!
-
+-->
 ---
 
 <div align="center">
