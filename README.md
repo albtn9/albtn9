@@ -127,7 +127,7 @@
 
 <div align="center">
 
-![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=albtn9&show_icons=true&theme=dark&hide_border=true&count_private=true)
+<!--![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=albtn9&show_icons=true&theme=dark&hide_border=true&count_private=true)-->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albtn9&layout=compact&theme=dark&hide_border=true)
 
 </div>
@@ -138,11 +138,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-albertine/)
 
----
-
-## 💬 Vamos conversar?
-
-Se quiser trocar ideias sobre QA, automação ou oportunidades, fique à vontade para me chamar no LinkedIn!
+Fique à vontade para me chamar no LinkedIn!
 
 ---
 
