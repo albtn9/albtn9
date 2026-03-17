@@ -1,4 +1,4 @@
-# Olá, eu sou o Gustavo Albertine! 👋
+#  Gustavo Albertine
 
 > QA Engineer | Testes Manuais & Automatizados | Cypress | API Testing | BDD
 
