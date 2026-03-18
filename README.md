@@ -94,11 +94,14 @@
 
 ## ⭐ Diferenciais
 
-- 📚 Criação de materiais de onboarding e documentação de QA  
-- 🎥 Produção de conteúdos técnicos para compartilhamento de conhecimento  
-- 🧠 Visão analítica para identificação de falhas e melhorias de processo  
-- 🤝 Forte colaboração com times de desenvolvimento e produto  
-- 📈 Redução de onboarding de 2 meses para 15 dias através de base de conhecimento estruturada  
+- 🧪 Planejamento, criação e execução de testes manuais e automatizados  
+- ⚙️ Automação de testes E2E com Cypress e Playwright  
+- 🔗 Validação de APIs REST e análise de respostas (Postman)  
+- 🔄 Integração de testes automatizados em pipelines CI/CD (GitHub Actions)  
+- 🧠 Análise crítica de cenários e identificação de riscos de qualidade  
+- 📊 Criação de estratégias de teste baseadas em risco  
+- 🔁 Planejamento e execução de testes de regressão  
+- 📚 Documentação de testes e padronização de processos 
 
 ---
 
