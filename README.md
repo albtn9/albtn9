@@ -81,6 +81,7 @@
 | Postman API Fundamentals Student Expert | Postman Academy |
 | Playwright Além da Interface | Projeto TestBeyond |
 | Testes de Performance com Artillery | Projeto TestBeyond |
+| Ninja do Cypress | Udemy |
 | Teste de Performance com K6 | Udemy |
 | BDD eXperience | Udemy |
 | Robot Framework e Appium para Android e iOS | Udemy |
