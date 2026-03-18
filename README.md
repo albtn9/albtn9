@@ -5,11 +5,11 @@
 
 ## 🧪 Sobre mim
 
-- 🔍 Atuo como **QA Engineer**, focado em garantir a qualidade e confiabilidade de produtos digitais  
-- 🤖 Trabalho com **testes manuais e automatizados**, cobrindo web, mobile e APIs  
-- 📋 Experiência com metodologias **BDD/Gherkin**, escrevendo cenários claros e colaborativos  
-- ⚙️ Vivência em **CI/CD com GitHub Actions**, integrando testes em pipelines de entrega contínua  
-- 💡 Qualidade é responsabilidade de todos, não apenas do QA  
+- 🔍 QA Engineer com foco em garantir qualidade, confiabilidade e estabilidade de produtos digitais  
+- 🧠 Perfil analítico, com forte atenção aos detalhes e identificação de riscos de qualidade  
+- 🤝 Atuação colaborativa com times de desenvolvimento e produto em ambientes ágeis  
+- 📈 Foco em melhoria contínua de processos e evolução da qualidade nas entregas  
+- 💡 Qualidade como responsabilidade compartilhada entre times    
 
 ---
 
@@ -101,7 +101,7 @@
 - 🧠 Análise crítica de cenários e identificação de riscos de qualidade  
 - 📊 Criação de estratégias de teste baseadas em risco  
 - 🔁 Planejamento e execução de testes de regressão  
-- 📚 Documentação de testes e padronização de processos 
+- 📚 Documentação de testes e padronização de processos  
 
 ---
 
