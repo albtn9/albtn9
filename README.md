@@ -132,7 +132,7 @@
 <div align="center">
 
 <!--![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=albtn9&show_icons=true&theme=dark&hide_border=true&count_private=true)-->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albtn9&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albtn9&layout=compact&theme=dark&hide_border=true&cache_seconds=10)
 
 </div>
 
