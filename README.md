@@ -144,8 +144,9 @@
 
 Fique à vontade para me chamar no LinkedIn!
 
+<!--
 ---
-
 <div align="center">
   <i>"Qualidade não é um ato, é um hábito."</i>
 </div>
+-->
