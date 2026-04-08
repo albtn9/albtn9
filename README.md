@@ -131,7 +131,9 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=albtn9&theme=dark&hide_border=true)
+<!--![GitHub Streak](https://streak-stats.demolab.com?user=albtn9&theme=dark&hide_border=true)-->
+
+  <img height="165" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=albtn9&theme=aura" alt="Top languages" />
 
 </div>
 
